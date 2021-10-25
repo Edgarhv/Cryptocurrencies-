@@ -10,3 +10,4 @@ After we understood what unsupervised learning is used for, how to process data,
 
 # Results
 
+ ![img](https://github.com/Edgarhv/Cryptocurrencies-/blob/6dc94609df2c5a19c6967aef159887fdb693c461/Resources/Images/2D-Scatter%20plot%20with%20clusters.png)
