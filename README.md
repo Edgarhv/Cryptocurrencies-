@@ -18,3 +18,8 @@ There are a total of 532 tradable cryptocurrencies.
 
  ![img](https://github.com/Edgarhv/Cryptocurrencies-/blob/a09413c13715ff1d23ea24b582573d5c7d4bbec3/Resources/Images/3D-Scatter%20plot%20with%20clusters.png)
  ![img](https://github.com/Edgarhv/Cryptocurrencies-/blob/6dc94609df2c5a19c6967aef159887fdb693c461/Resources/Images/2D-Scatter%20plot%20with%20clusters.png)
+
+
+# Summary
+- There are a total of 532 tradable cryptocurrencies.
+If we want a better analysis, we need to check what the client needs and check each group to determine their performance of the cryptocurrencies.
